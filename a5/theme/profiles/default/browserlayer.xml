@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<layers>
+    <layer name="a5.theme"
+        interface="a5.theme.interfaces.IProductSpecific" />
+</layers>
